@@ -1,6 +1,4 @@
 theme: minima
-plugins:
-  - jekyll-feed
 title: aashishkaf's personal blog
 description: There is where I share stuffs
 author: aashishkaf
