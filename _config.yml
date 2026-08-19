@@ -8,7 +8,7 @@ author: Aashish Kafle
 ###############################################
 
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
